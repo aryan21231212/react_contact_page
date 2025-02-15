@@ -1,0 +1,19 @@
+.content{
+    display: flex;
+    height: 24px;
+    width: 231px;
+    gap: 24px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1440px;
+    height: 72px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}

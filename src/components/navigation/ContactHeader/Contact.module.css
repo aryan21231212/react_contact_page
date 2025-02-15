@@ -1,0 +1,27 @@
+.contact{
+   font-size: 48px;
+   font-weight: 800;
+   line-height: 72px;
+
+}
+.head{
+    width: 315px;
+    height: 72px;
+    font-weight: 800;
+}
+
+.para{
+    color: gray;
+    font-weight: 600;
+    line-height: 24px;
+    font-size: 16px;
+}
+.main{
+   margin-left: 250px;
+   margin-top: 70px;
+}
+
+.papa{
+    width: 975px;
+    height: 72px;
+}

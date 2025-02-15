@@ -1,0 +1,71 @@
+.big{
+    margin-left: 250px;
+    display: flex;
+    margin-top: 95px;
+}
+.but2{
+    display: flex;
+    gap: 17px;
+}
+
+.btn{
+   margin-left: 5px;
+   margin-top:23px ;
+   width: 447px;
+}
+
+
+.baap{
+    width: 500px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: flex-end; */
+}
+
+input{
+    width: 440px;
+    height: 40px;
+    border-radius: 1px;
+    border:1px solid black;
+    margin-top: 23px;
+    margin-left: 7px;
+    padding-left: 4px;
+    font-size: 1rem;
+}
+textarea{
+    padding-left: 4px;
+    padding-top: 10px;
+    font-size: 0.75rem;
+    border-radius: 1px;
+    border:1px solid black;
+    margin-top: 23px;
+    margin-left: 7px;
+    width: 440px;
+    resize: none;
+}
+.name{
+    background-color: white;
+    position: absolute;
+    left: 270px;
+    top: 542px;
+}
+
+.email{
+    background-color: white;
+    position: absolute;
+    left: 270px;
+    top: 605px;
+}
+.text{
+    background-color: white;
+    position: absolute;
+    left: 270px;
+    top: 667px;
+   
+}
+
+.btn3{
+    display: flex;
+    justify-content: flex-end;
+    width: 445px;
+}
